@@ -1,7 +1,4 @@
-# AlkemyLabs
-Mini proyecto realizado en semana warm-up de Aceleración en Java.
-
-Alkemy Academy.
+# API BLOG
 ***
 Spring Boot & Postman
 
